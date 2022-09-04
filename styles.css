@@ -94,6 +94,13 @@ padding: 2rem;
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
+.neogcamp-projects {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #f9a8265b;
+    border-radius: 10px;
+  }
+  
 
 .footer {
     
