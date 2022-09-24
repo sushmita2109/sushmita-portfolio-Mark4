@@ -41,7 +41,9 @@ padding: 2rem;
     color: var(--dark-grey);
     text-align: center;
 }
-
+.highlight{
+    color: var(--primary-color);
+}
 .list-non-bullet{
     list-style: none;
 }
@@ -106,6 +108,11 @@ padding: 2rem;
     padding: 1rem;
     background-color: var(--off-white);
     border-radius: 10px;
+}
+.blog-img{
+    margin: 2rem 28rem;
+    width: 20%;
+
 }
 .footer {
     position: absolute;
