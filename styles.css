@@ -112,7 +112,29 @@ padding: 2rem;
 .blog-img{
     margin: 2rem 28rem;
     width: 20%;
-
+}
+.blog-container{
+ align-items: center;
+ max-width: 800px;
+    width: 90%;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+}
+.blog-section1{
+    background-color:var(--off-white);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.blog-section2{
+    background-color:#f9a8265b;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.blog-title{
+    margin: auto;
 }
 .footer {
     position: absolute;
